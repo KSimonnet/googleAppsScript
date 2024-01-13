@@ -26,6 +26,7 @@ In this example, an argument is passed from the client-side to the server-side f
 ```
 
 **Explanation of the algorithm**
+
 Control follows the below steps:
 
 1. Pass the argument '0' to the server-side function `bufferFunction`,
